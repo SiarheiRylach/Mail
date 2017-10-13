@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="true">
+    <test name="numberMailLetters">
+        <classes>
+            <class name="tstCheckLetters"/>
+        </classes>
+    </test>
+</suite>
