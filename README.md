@@ -2,11 +2,8 @@
 
 Tests for mail on tut.by.
 
-Getting Started
-  Run "_numberMailLetters.xml"
+How to run:
+  1. Install JDK and set all environment variables for Java.
+  2. Run "_numberMailLetters.xml"
   
-Prerequisites
-  Install JDK and set all environment variables for Java.
-  
-Authors
-  Siarhei Rylach
+Created by Siarhei Rylach.
