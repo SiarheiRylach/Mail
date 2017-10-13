@@ -9,4 +9,4 @@ Prerequisites
   Install JDK and set all environment variables for Java.
   
 Authors
-  Author Siarhei Rylach
+  Siarhei Rylach
